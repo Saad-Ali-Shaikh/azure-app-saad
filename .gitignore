@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/azure-app-saad
+/.vs/azure-app-saad/DesignTimeBuild
+/.vs/azure-app-saad/DesignTimeBuild/.dtbcache.v2
+/.vs/azure-app-saad/FileContentIndex
+/.vs/azure-app-saad/FileContentIndex/6a775e2c-d06d-45f1-91a4-84e0d52141cf.vsidx
