@@ -1,0 +1,7 @@
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\azure-app-saad.exe
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\appsettings.json
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\azure-app-saad.dll
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\azure-app-saad.deps.json
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\azure-app-saad.runtimeconfig.json
+C:\Saad\Projects\azure-app-saad\bin\Release\net8.0\publish\azure-app-saad.pdb
